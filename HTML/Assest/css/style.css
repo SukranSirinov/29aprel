@@ -1,0 +1,17 @@
+.main-box {
+  text-align: center;
+  padding: 100px;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.03);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.crd-body {
+  border: 2px solid rgba(0, 0, 0, 0.03);
+  border-radius: 5px;
+  padding: 1.25rem;
+}
+/*# sourceMappingURL=style.css.map */
